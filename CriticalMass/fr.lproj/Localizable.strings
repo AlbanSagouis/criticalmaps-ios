@@ -29,7 +29,7 @@
 "rules.source" = "Images of criticalmass-hh.de (CC BY-NC-ND 3.0 DE)";
 
 /* No comment provided by engineer. */
-"rules.text.brake" = "Évite les arrêts soudains. Si tu dois vraiment t'arrêter, essaye de prévenir les gens derrière toi.";
+"rules.text.brake" = "Évite les arrêts soudains. Si tu dois vraiment t'arrêter, essaie de prévenir les gens derrière toi.";
 
 /* No comment provided by engineer. */
 "rules.text.contraflow" = "Évite de rouler sur la voie opposée.";
@@ -102,7 +102,7 @@
 "settings.gpsSettings" = "Réglages GPS";
 
 /* No comment provided by engineer. */
-"settings.kniggeImages" = "Rules images";
+"settings.kniggeImages" = "Images des règles";
 
 /* No comment provided by engineer. */
 "settings.logoDesign" = "Logo design";
